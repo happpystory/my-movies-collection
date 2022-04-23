@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e25d2aed.css","mappings":"AAAA,aAEI,oBAAqB,CACrB,2BAA4B,CAF5B,mBAAoB,CAGpB,eAAgB,CAChB,sBACJ","sources":["index.css"],"sourcesContent":[".abbvSummary {\r\n    display: -webkit-box;\r\n    -webkit-line-clamp: 4;\r\n    -webkit-box-orient: vertical;\r\n    overflow: hidden;\r\n    text-overflow: ellipsis;\r\n}"],"names":[],"sourceRoot":""}
