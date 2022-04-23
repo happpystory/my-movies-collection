@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://happpystory.github.io/my-movie-collection",
+  "homepage": "https://happpystory.github.io/my-collection",
   "dependencies": {
     "@chakra-ui/react": "^1.8.8",
     "@emotion/react": "^11.9.0",
